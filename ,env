@@ -1,0 +1,2 @@
+PORT=8000
+DB=mongodb+srv://masai:masaischool@cluster0.ggxsc.mongodb.net/details?retryWrites=true&w=majority
